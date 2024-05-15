@@ -6,14 +6,15 @@
 
 Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bIvdzbg5PDoQSr7ugv32wQtcKUiNaBiPt2RSzHwNRtA/edit?usp=sharing)
 
-Your team: group number ❔
+Your team: Groupe 7
 
   - Student 1: Omar KAMI 'omarkami007'
+  
   - Student 2: Zakaria ECHAKIR 'zed-ec'
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: Oussama ELMOUJTAHID 'Oussamaem1'
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: Abdelilah AZOUZI 'AbdelilahAZOUZI'
 
 ## Getting Started
 
